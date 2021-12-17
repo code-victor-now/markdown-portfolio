@@ -1,1 +1,2 @@
-<p align="center"><img width="300" src="https://user-images.githubusercontent.com/8168962/146066829-1116c9ba-242d-4b0b-91a4-4b01109fc868.png"></p>
+
+![code-victor-now-logo-300-01](https://user-images.githubusercontent.com/8168962/146548245-c6fe6698-b9b4-4e4d-bf2e-32bf72d24854.png)
